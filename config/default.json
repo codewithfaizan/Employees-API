@@ -1,4 +1,0 @@
-{
-    "PORT" : 3000,
-    "DB_URI" : "mongodb+srv://faizan:aJiCeqIlemiVcjb6@cluster0.vaeikt9.mongodb.net/employeeData"
-}
